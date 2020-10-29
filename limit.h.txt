@@ -1,0 +1,17 @@
+The header <limits.h> defines constants for the sizes of integral types. The values below are acceptable minimum magnitudes; larger values may be used.
+
+CHAR_BIT bits in char 
+CHAR_MAX max value of char
+CHAR_MIN min value of char
+INT_MAX max value of int
+INT_MIN  min value of int
+LONG_MAX max value of long
+LONG_MIN min value of long
+SCHAR_MAX max value of signed char
+SCHAR_MIN min value of signed char
+SHRT_MAX max value of short
+SHRT_MIN min value of short
+UCHAR_MAX min value of unsigned char
+UINT_MAX max value of unsigned int
+ULONG_MAX max value of unsigned long
+USHRT_MAX max value of unsigned short
